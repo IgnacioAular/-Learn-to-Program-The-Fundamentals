@@ -3,7 +3,7 @@
 # Marin, San Felipe, Yaracuy, Venezuela
 # 30 de Septiembre de 2018
 # ignacio_345@hotmail.com
-# (0412) 8510173
+# 0412-8510173
 
 # Curso de Python
 # Universidad Toronto, Canada
